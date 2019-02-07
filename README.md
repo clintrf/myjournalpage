@@ -1,0 +1,2 @@
+# myJournalPage
+MyWebsite
